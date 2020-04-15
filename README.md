@@ -16,7 +16,7 @@ Some unique features make its strength:
 * It covers all western european languages.
 * It has a lot of symbols.
 
-!(Illustration)[showcases/illustrations/lorem.png]
+![Illustration](showcases/illustrations/lorem.png)
 
 
 ### Weights
@@ -43,15 +43,15 @@ NF Pixels features standard ligatures to improve readability.
 
 ### Pixel grid
 
-!(Ligature example)[showcases/illustrations/grid.png]
+![Ligature example](showcases/illustrations/grid.png)
 
 ### Readability
 
-!(Ligature example)[showcases/illustrations/readability.png]
+![Ligature example](showcases/illustrations/readability.png)
 
 ### Game example
 
-!(Ligature example)[showcases/illustrations/game.png]
+![Ligature example](showcases/illustrations/game.png)
 
 
 ## License
