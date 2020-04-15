@@ -37,6 +37,8 @@ NF Pixels features standard ligatures to improve readability.
 
 ## Installation
 
+The easiest way to get the last version is to get files from the [releases page](https://github.com/sgigou/NF-Pixels/releases).
+
 You will find `ttf` and `otf` files in the [fonts directory](fonts/).
 
 You can also take a look at the [sources folder](sources) to find the work files.
