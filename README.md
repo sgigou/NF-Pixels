@@ -32,7 +32,16 @@ Obviously, there is no italic version planned, as it is quite hard to make it re
 
 NF Pixels features standard ligatures to improve readability.
 
-!(Ligature example)[showcases/ligatures.png]
+![Ligature example](showcases/ligatures.png)
+
+
+## Installation
+
+You will find `ttf` and `otf` files in the [fonts directory](fonts/).
+
+You can also take a look at the [sources folder](sources) to find the work files.
+
+If you want some examples, you can go to the [showcases directory](showcases) to see the table of characters, and some real-life examples.
 
 
 ## Examples
